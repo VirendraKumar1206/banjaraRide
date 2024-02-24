@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-17T01:06:22 IST" name="Surefire suite" finished-at="2024-02-17T01:07:29 IST" duration-ms="67105">
+    <groups>
+    </groups>
+    <test started-at="2024-02-17T01:06:22 IST" name="Surefire test" finished-at="2024-02-17T01:07:29 IST" duration-ms="67105">
+      <class name="banjara1.Ride2">
+        <test-method is-config="true" signature="Before()[pri:0, instance:banjara1.Ride2@1329eff]" started-at="2024-02-17T01:06:22 IST" name="Before" finished-at="2024-02-17T01:06:40 IST" duration-ms="18038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="task1()[pri:0, instance:banjara1.Ride2@1329eff]" started-at="2024-02-17T01:06:40 IST" name="task1" finished-at="2024-02-17T01:07:12 IST" duration-ms="32560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task1 -->
+        <test-method signature="task2()[pri:0, instance:banjara1.Ride2@1329eff]" started-at="2024-02-17T01:07:12 IST" name="task2" finished-at="2024-02-17T01:07:25 IST" duration-ms="12369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task2 -->
+        <test-method signature="task3()[pri:0, instance:banjara1.Ride2@1329eff]" started-at="2024-02-17T01:07:25 IST" name="task3" finished-at="2024-02-17T01:07:29 IST" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- task3 -->
+      </class> <!-- banjara1.Ride2 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
